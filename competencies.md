@@ -71,7 +71,6 @@
 
 ##### AJAX
 
-*Most demonstrated in MvcMovieApp, using Angular.js factories and ng-controllers to create, read, update, and delete.  Made reference to help me understand factory pattern in depth:*
 
 - [ ] Understanding of asynchronous concepts and implications such as callbacks
 
@@ -91,8 +90,6 @@
 
 - [ ] Understands difference between AJAX and HTTP Methods -
 
-
-//**AJAX, or Asynchronous JavaScript and XML, is a jQuery wrapper that implements the  DOM's built in XMLHttpRequest Object, which enables asynchronous interaction with the server (ie the page can be updated or data sent to the server without reloading).  HTTP methods indicate the action to be performed on the data in the server, whether it be get, put, post, delete, patch, etc.* *
 
 ##### jQuery
 
@@ -120,7 +117,7 @@
 **SQL**
 
 - [ ] Can create tables, columns & stored procedures in a timely manner
-      - *Demonstrated proficiency creating tables, adding columns here: Demonstrated proficiency here:  https://www.codecademy.com/cloudSurfer22422*
+
 - [ ] Can take business logic and turn it into a database design
 
 
@@ -158,7 +155,6 @@
 
 
 - [ ] Knowledge of serialization and deserialization with JSON
-      - *Demonstrated through development of RESTful API for Techtonic Client*
 
 
 - [ ] Understanding the difference between pass by reference and pass by value
