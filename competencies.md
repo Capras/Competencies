@@ -2,7 +2,7 @@
 
 ### 1. FRONT END DEVELOPMENT HTML & CSS
 
-*Demonstrated proficiency here: [Website Hosted on github](https://krystin987.github.io/maggie/) and the [repository](https://github.com/krystin987/maggie): *
+*Demonstrated proficiency here:* [Website Hosted on github](https://krystin987.github.io/maggie/) *and the* [repository](https://github.com/krystin987/maggie)
 
 - [ ] Solid Knowledge of common tag types and how to implement them
 
@@ -20,7 +20,7 @@
 - [ ] Understands how the browser handles conflicting styles
 
 
-- [ ] Understands how the DOM is laid out and is structured - *The DOM is an API that allows programmers to manipulate elements on a webpage in a CRUD-like. The DOM treats elements as objects and interfaces that exist in a tree-like hierarchy*
+- [ ] Understands how the DOM is laid out and is structured
 
 
 - [ ] Understands the difference between content & styling
@@ -45,7 +45,7 @@
 
 - [ ] ##### JavaScript
 
-      Demonstrated proficiency here: [Library Project](https://krystin987.github.io/Library-Project/) and [repository](https://github.com/krystin987/Library-Project), [HTML5 Canvas Game](https://krystin987.github.io/game-time/) and [repository](https://github.com/krystin987/game-time), and [Zayo](https://github.com/krystin987/maprefactor)
+*Demonstrated proficiency here:* [Library Project](https://krystin987.github.io/Library-Project/) and [repository](https://github.com/krystin987/Library-Project), [HTML5 Canvas Game](https://krystin987.github.io/game-time/) and [repository](https://github.com/krystin987/game-time), and [Zayo](https://github.com/krystin987/maprefactor)
 
 
 - [ ] Solid understanding of HTML & CSS
