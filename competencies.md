@@ -26,7 +26,7 @@
 - [ ] Understands the difference between content & styling
 
 
-- [ ] Understands that different browsers render and interpret things slightly differently and the need to test on commonly used platforms - *performed cross-platform testing and corrected peoplegrid rendering issues on different browsers for HVA*
+- [ ] Understands that different browsers render and interpret things slightly differently and the need to test on commonly used platforms
 
 ##### Bootstrap
 
@@ -45,7 +45,7 @@
 
 - [ ] ##### JavaScript
 
-      *Demonstrated proficiency here: [Library Project](https://krystin987.github.io/Library-Project/) and [repository](https://github.com/krystin987/Library-Project), [HTML5 Canvas Game](https://krystin987.github.io/game-time/) and [repository](https://github.com/krystin987/game-time), and [Zayo](https://github.com/krystin987/maprefactor)*
+      Demonstrated proficiency here: [Library Project](https://krystin987.github.io/Library-Project/) and [repository](https://github.com/krystin987/Library-Project), [HTML5 Canvas Game](https://krystin987.github.io/game-time/) and [repository](https://github.com/krystin987/game-time), and [Zayo](https://github.com/krystin987/maprefactor)
 
 
 - [ ] Solid understanding of HTML & CSS
@@ -71,9 +71,7 @@
 
 ##### AJAX
 
-*Most demonstrated in MvcMovieApp, using Angular.js factories and ng-controllers to create, read, update, and delete.  Made reference to help me understand factory pattern in depth: https://docs.google.com/spreadsheets/d/18fE5JpUMEyP5uy91cDl53Ee56nHjjnlMnxl5BUuVgYM/edit?usp=sharing*
-
-*Additionally, created JavaScript API Client for **Misty Robot***
+*Most demonstrated in MvcMovieApp, using Angular.js factories and ng-controllers to create, read, update, and delete.  Made reference to help me understand factory pattern in depth:*
 
 - [ ] Understanding of asynchronous concepts and implications such as callbacks
 
@@ -91,7 +89,10 @@
 - [ ] Understands difference between HTTP Methods POST, GET, and PUT
 
 
-- [ ] Understands difference between AJAX and HTTP Methods - **AJAX, or Asynchronous JavaScript and XML, is a jQuery wrapper that implements the  DOM's built in XMLHttpRequest Object, which enables asynchronous interaction with the server (ie the page can be updated or data sent to the server without reloading).  HTTP methods indicate the action to be performed on the data in the server, whether it be get, put, post, delete, patch, etc.* *
+- [ ] Understands difference between AJAX and HTTP Methods -
+
+
+//**AJAX, or Asynchronous JavaScript and XML, is a jQuery wrapper that implements the  DOM's built in XMLHttpRequest Object, which enables asynchronous interaction with the server (ie the page can be updated or data sent to the server without reloading).  HTTP methods indicate the action to be performed on the data in the server, whether it be get, put, post, delete, patch, etc.* *
 
 ##### jQuery
 
@@ -164,7 +165,7 @@
 
 ##### Ruby on Rails
 
-- Understand how an application accesses stored data, and how to reduce load by steamlining data requests
+- Understand how an application accesses stored data, and how to reduce load by streamlining data requests
 - Strong knowledge of gems, both to locate and install simple add-ons to their application, and create their own custom gems
 - Knowledge of unit testing and Spec to produce clean, tested code
 
@@ -229,11 +230,11 @@
 
 - [ ] a.) Maintainability (Supportability) - The application should require the least amount of effort to support in the near future. It should be easy to identify, fix, and detect.
 
-      ​	Readability: Code should be self-explanatory. Get a feel of story reading. whlile going through code. Use appropriate name for variables, functions and classes. If you are taking more time to understand  the code, then either code needs refactoring or at least comments have to be written to make it clear.
+      ​	Readability: Code should be self-explanatory. Get a feel of story reading. while going through code. Use appropriate name for variables, functions and classes. If you are taking more time to understand  the code, then either code needs refactoring or at least comments have to be written to make it clear.
 
       ​	Testability: The code should be easy to test. Refactor into separate function (if required). Use interfaces while talking to other layers, as interfaces can be mocked easily. Try to avoid static functions, singleton classes as these are not easily testable by mocks.
 
-      ​	Debuggability: Provide support to log the flow of control, paramater data and exception details to find the root cause easily. if you are using Log4Net like component then add support for database logging also as querying the log table is easy.
+      ​	Debug-ability: Provide support to log the flow of control, parameter data and exception details to find the root cause easily. if you are using Log4Net like component then add support for database logging also as querying the log table is easy.
 
       ​	Configurability: Keep the configurable values in place (XML file, database table) so that no code changes are required, if the data is changed frequently.
 
@@ -282,16 +283,15 @@
 - [ ] Open Closed Principle: While adding new functionality, existing code should not be modified. New functionality should be written in new classes and functions
 
 
-- [ ] Liskov substitutability principle: The child class should not change the behavior (meaning) of the parent class. The child classcan be used as a substitute for a base class.
+- [ ] Liskov substitutability principle: The child class should not change the behavior (meaning) of the parent class. The child class can be used as a substitute for a base class.
       - Completed Interface Polygons class
 
 
-- [ ] Interface segregation: Do not create lengthy interfaces, instead split them into smaller interfaces based on the functionality. The interface should not contain any dependencies (paramaters), which are not require for the expected functionality
+- [ ] Interface segregation: Do not create lengthy interfaces, instead split them into smaller interfaces based on the functionality. The interface should not contain any dependencies (parameters), which are not require for the expected functionality
       - Demonstrated in MVCMovie project: https://github.com/econno11ee/MvcMovieApp
 
 
 - [ ] Dependency Injection: Do not hardcode the dependencies, instead inject them
-      - *Exposure to these concepts in MVVM at Techtonic Group client*
 
 ### 6. GIT
 
