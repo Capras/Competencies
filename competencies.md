@@ -154,6 +154,7 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 &nbsp;&nbsp;&nbsp;&nbsp;Mongo is a document based database. Documents are the actual data records, nested in sub categories.
 
 &nbsp;&nbsp;&nbsp;&nbsp;SQL is a relational database. It defines a schema before records are added to the database typically in rows, columns, data types and names for the columns/rows.
+
 ---
 
 
