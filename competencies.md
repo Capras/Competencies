@@ -150,6 +150,7 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 ##### Personal proof of concept for Database Development:
 
 [Zayo private repository](https://github.com/krystin987/maprefactor) uses relational database methods in a client project.
+
 [MVC Movie App](https://github.com/krystin987/mvcmpvieapp) uses relational database methods.
 
 Mongo is a document based database. Documents are the actual data records, nested in sub categories.
@@ -194,6 +195,7 @@ SQL is a relational database. It defines a schema before records are added to th
 
 
 [MVC Movie App](https://github.com/krystin987/mvcmpvieapp) uses C#
+
 [Exercism Exercises](http://exercism.io/profiles/krystin987/004f70f5d5eb4887b177560dd1b07d33) includes C# exercises
 
 ---
@@ -351,6 +353,14 @@ SQL is a relational database. It defines a schema before records are added to th
 - [ ] Dependency Injection: Do not hardcode the dependencies, instead inject them
 
 ### 6. GIT
+
+---
+
+##### Personal proof of concept for GIT:
+
+[Github Profile](https://github.com/krystin987) demonstrates 18 months of activity with 541 contributions in the past year through mac OS CLI. 
+
+---
 
 - [ ] Solid knowledge of how source control works why it's important using either CLI or GUI tools
 
