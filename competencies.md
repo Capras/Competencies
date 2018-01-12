@@ -89,7 +89,7 @@ The HTML5 "Brickout" Canvas Game from January 2017 uses object oriented programm
 - [ ] Knowledge on how to traverse the DOM for element handles
 
 
-- [ ] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements - *See 4 ways of creating objects in JS:*
+- [ ] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements
 
 
 ##### AJAX
