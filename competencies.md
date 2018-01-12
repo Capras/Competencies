@@ -15,7 +15,7 @@ This basic outline for creating a simple 'first web app' boilerplate was develop
 
 [Basic File boilerplate repository](https://github.com/krystin987/Boilerplate)
 
-In the past 90 days over 20 hours were spent in the academy mentoring or code reviewing HTML, CSS, and Javascript.
+In the past 90 days over 20 hours were spent in the academy mentoring or reviewing code with apprentices in HTML, CSS, and Javascript.
 
 ---
 
@@ -107,7 +107,7 @@ The Zayo project from Fall 2017 uses object oriented programming, prototypical m
 
 [Zayo private repository](https://github.com/krystin987/maprefactor)
 
-In December about 5 hours were spent teaching ajax, async, and http in the academy including a project assignment using ajax calls.
+In December about 5 hours were spent teaching ajax, async, and http to apprentices in the academy including overseeing a brief project assignment using ajax calls.
 
 ---
 
@@ -130,6 +130,8 @@ In December about 5 hours were spent teaching ajax, async, and http in the acade
 
 
 - [ ] Understands difference between AJAX and HTTP Methods 
+
+##### -Ajax uses asynchronous javascript XML calls, HTTP is used by REST calls
 
 
 ##### jQuery
