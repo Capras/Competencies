@@ -7,11 +7,11 @@
 ##### Personal proof of concept for HTML & CSS Including Bootstrap:
 A simple, responsive website from July 2017 that uses HTML, CSS, and Bootstrap.
 
-&nbsp;&nbsp;&nbsp;[Basic Business Website - hosted](https://krystin987.github.io/maggie/)|[code repository](https://github.com/krystin987/maggie)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Basic Business Website - hosted](https://krystin987.github.io/maggie/) | [code repository](https://github.com/krystin987/maggie)  
 
 This basic outline for creating a simple 'first web app' boilerplate was developed in January 2018 for incoming apprentices. It briefly describes the three basic file components (html, css, javascript) and how to write them to see immediate results in a browser.
 
-&nbsp;&nbsp;&nbsp;[Basic File boilerplate repository](https://github.com/krystin987/Boilerplate)
+&nbsp;&nbsp;&nbsp;&nbsp;[Basic File boilerplate repository](https://github.com/krystin987/Boilerplate)
 
 In the past 90 days over 20 hours were spent in the academy mentoring or reviewing code with apprentices in HTML, CSS, and Javascript.
 
@@ -61,15 +61,15 @@ In the past 90 days over 20 hours were spent in the academy mentoring or reviewi
 ##### Personal proof of concept for Middleware Development including JavaScript, AJAX, HTTP, & jQuery:
 The library project from July 2017 uses object oriented programming, prototypical modeling, JQuery, and JSON objects.
 
-      ​[Library Project - hosted](https://krystin987.github.io/Library-Project/)
+&nbsp;&nbsp;&nbsp;&nbsp;[Library Project - hosted](https://krystin987.github.io/Library-Project/)
 
-      ​[Library Project repository](https://github.com/krystin987/Library-Project)
+&nbsp;&nbsp;&nbsp;&nbsp;[Library Project repository](https://github.com/krystin987/Library-Project)
 
 The HTML5 "Brickout" Canvas Game from January 2017 uses object oriented programming, prototypical modeling, JQuery, HTML5 canvas, object collision, webpack deployment, and test driven development.
 
-      ​[HTML5 "Brickout" Canvas Game - hosted](https://krystin987.github.io/game-time/)
+&nbsp;&nbsp;&nbsp;&nbsp;[HTML5 "Brickout" Canvas Game - hosted](https://krystin987.github.io/game-time/)
 
-      ​[HTML5 "Brickout" Canvas Game repository](https://github.com/krystin987/game-time)
+&nbsp;&nbsp;&nbsp;&nbsp;[HTML5 "Brickout" Canvas Game repository](https://github.com/krystin987/game-time)
 
 ---
 
@@ -103,7 +103,7 @@ The HTML5 "Brickout" Canvas Game from January 2017 uses object oriented programm
 
 The Zayo project from Fall 2017 uses object oriented programming, prototypical modeling, JQuery, promise values, and SQL style backend query methods (SOQL in Salesforce) as well as demonstrates proper use of asynchronous promise values using callbacks.
 
-​[Zayo private repository](https://github.com/krystin987/maprefactor)
+&nbsp;&nbsp;&nbsp;&nbsp;[Zayo private repository](https://github.com/krystin987/maprefactor)
 
 In December about 5 hours were spent teaching ajax, async, and http to apprentices in the academy including overseeing a brief project assignment using ajax calls.
 
@@ -128,7 +128,7 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 
 
 - [ ] Understands difference between AJAX and HTTP Methods 
-      ​	Ajax uses asynchronous javascript XML calls, HTTP is used by REST calls
+&nbsp;&nbsp;&nbsp;&nbsp;Ajax uses asynchronous javascript XML calls, HTTP is used by REST calls
 
 
 ##### jQuery
@@ -147,13 +147,13 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 
 ##### Personal proof of concept for Database Development:
 
-      ​[Zayo private repository](https://github.com/krystin987/maprefactor) uses relational database methods in a client project.
+&nbsp;&nbsp;&nbsp;&nbsp;[Zayo private repository](https://github.com/krystin987/maprefactor) uses relational database methods in a client project.
 
-      ​[MVC Movie App](https://github.com/krystin987/mvcmpvieapp) uses relational database methods.
+&nbsp;&nbsp;&nbsp;&nbsp;[MVC Movie App](https://github.com/krystin987/mvcmpvieapp) uses relational database methods.
 
-      ​Mongo is a document based database. Documents are the actual data records, nested in sub categories.
+&nbsp;&nbsp;&nbsp;&nbsp;Mongo is a document based database. Documents are the actual data records, nested in sub categories.
 
-      ​SQL is a relational database. It defines a schema before records are added to the database typically in rows, columns, data types and names for the columns/rows.
+&nbsp;&nbsp;&nbsp;&nbsp;SQL is a relational database. It defines a schema before records are added to the database typically in rows, columns, data types and names for the columns/rows.
 ---
 
 
@@ -192,9 +192,9 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 ##### Personal proof of concept for Database Development:
 
 
-      ​[MVC Movie App](https://github.com/krystin987/mvcmpvieapp) uses C#
+&nbsp;&nbsp;&nbsp;&nbsp;[MVC Movie App](https://github.com/krystin987/mvcmpvieapp) uses C#
 
-      ​[Exercism Exercises](http://exercism.io/profiles/krystin987/004f70f5d5eb4887b177560dd1b07d33) includes C# exercises
+&nbsp;&nbsp;&nbsp;&nbsp;[Exercism Exercises](http://exercism.io/profiles/krystin987/004f70f5d5eb4887b177560dd1b07d33) includes C# exercises
 
 ---
 
@@ -356,7 +356,7 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 
 ##### Personal proof of concept for GIT:
 
-> [Github Profile](https://github.com/krystin987) demonstrates 18 months of activity with 541 contributions in the past year through mac OS CLI. 
+&nbsp;&nbsp;&nbsp;&nbsp;[Github Profile](https://github.com/krystin987) demonstrates 18 months of activity with 541 contributions in the past year through mac OS CLI. 
 
 ---
 
