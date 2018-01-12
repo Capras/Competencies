@@ -2,7 +2,6 @@
 
 ### 1. FRONT END DEVELOPMENT HTML & CSS
 ---
-**NOTE**
 Personal proof of concept for HTML & CSS Including Bootstrap:
 
 This is a simple, responsive website from July 2017 that uses HTML, CSS, and Bootstrap.
