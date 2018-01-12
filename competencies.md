@@ -249,6 +249,14 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 
 ### 5. CODING STANDARDS
 
+---
+
+##### Personal proof of concept for Coding Standards:
+
+[ES6 project with webpack and automated selenium testing](https://github.com/krystin987/2DoBox-Pivot)
+
+---
+
 ##### Code Formatting
 
 - [ ] While going through code, check the code formatting to improve readability and ensure there are no blockers
