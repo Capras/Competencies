@@ -254,7 +254,9 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 
 ##### Personal proof of concept for Coding Standards:
 
-[ES6 project with webpack and automated selenium testing](https://github.com/krystin987/2DoBox-Pivot)
+&nbsp;&nbsp;&nbsp;&nbsp;[Zayo private repository](https://github.com/krystin987/maprefactor)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[ES6 project with webpack and automated selenium testing](https://github.com/krystin987/2DoBox-Pivot)
 
 ---
 
