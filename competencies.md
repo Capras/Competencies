@@ -77,7 +77,7 @@ The HTML5 "Brickout" Canvas Game from January 2017 uses object oriented programm
 - [ ] Understanding of browser runtime & where to inject scripts
 
 
-- [ ] Understanding of dynamic typing and how it makes using the language quick and easy - *more concise, better for runtime debugging in the console, more suited to prototyping*
+- [ ] Understanding of dynamic typing and how it makes using the language quick and easy
 
 
 - [ ] Understanding of Document Object Model
