@@ -61,15 +61,11 @@ In the past 90 days over 20 hours were spent in the academy mentoring or reviewi
 ##### Personal proof of concept for Middleware Development including JavaScript, AJAX, HTTP, & jQuery:
 The library project from July 2017 uses object oriented programming, prototypical modeling, JQuery, and JSON objects.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Library Project - hosted](https://krystin987.github.io/Library-Project/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[Library Project repository](https://github.com/krystin987/Library-Project)
+&nbsp;&nbsp;&nbsp;&nbsp;[Library Project - hosted](https://krystin987.github.io/Library-Project/) | [code repository](https://github.com/krystin987/Library-Project)
 
 The HTML5 "Brickout" Canvas Game from January 2017 uses object oriented programming, prototypical modeling, JQuery, HTML5 canvas, object collision, webpack deployment, and test driven development.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[HTML5 "Brickout" Canvas Game - hosted](https://krystin987.github.io/game-time/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;[HTML5 "Brickout" Canvas Game repository](https://github.com/krystin987/game-time)
+&nbsp;&nbsp;&nbsp;&nbsp;[HTML5 "Brickout" Canvas Game - hosted](https://krystin987.github.io/game-time/) | [code repository](https://github.com/krystin987/game-time)
 
 ---
 
