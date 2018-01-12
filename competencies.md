@@ -1,8 +1,8 @@
 
 
 ### 1. FRONT END DEVELOPMENT HTML & CSS
-
-*Demonstrated proficiency here:* [Website Hosted on github](https://krystin987.github.io/maggie/) *and the* [repository](https://github.com/krystin987/maggie)
+#### Personal proof of concept:
+[Website Hosted on github](https://krystin987.github.io/maggie/) *and the* [repository](https://github.com/krystin987/maggie)
 
 - [ ] Solid Knowledge of common tag types and how to implement them
 
