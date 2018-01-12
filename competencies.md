@@ -358,7 +358,7 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 
 ##### Personal proof of concept for GIT:
 
-      ​[Github Profile](https://github.com/krystin987) demonstrates 18 months of activity with 541 contributions in the past year through mac OS CLI. 
+> [Github Profile](https://github.com/krystin987) demonstrates 18 months of activity with 541 contributions in the past year through mac OS CLI. 
 
 ---
 
