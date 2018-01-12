@@ -73,7 +73,7 @@ The HTML5 "Brickout" Canvas Game from January 2017 uses object oriented programm
 
 ---
 
-##### - [ ] JavaScript
+- [ ] **JavaScript**
 
 - [ ] Solid understanding of HTML & CSS
 
