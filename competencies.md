@@ -3,15 +3,15 @@
 ### 1. FRONT END DEVELOPMENT HTML & CSS
 ---
 ##### Personal proof of concept for HTML & CSS Including Bootstrap:
-This is a simple, responsive website from July 2017 that uses HTML, CSS, and Bootstrap.
+  This is a simple, responsive website from July 2017 that uses HTML, CSS, and Bootstrap.
 
-[Basic Business Website - hosted](https://krystin987.github.io/maggie/)
+    [Basic Business Website - hosted](https://krystin987.github.io/maggie/)
 
-[Basic Business Website repository](https://github.com/krystin987/maggie)
+    [Basic Business Website repository](https://github.com/krystin987/maggie)
 
-This basic outline for creating a simple 'first web app' boilerplate was developed in January 2018 for incoming apprentices. It briefly describes the three basic file components (html, css, javascript) and how to write them to see immediate results in a browser.
+  This basic outline for creating a simple 'first web app' boilerplate was developed in January 2018 for incoming apprentices. It briefly describes the three basic file components (html, css, javascript) and how to write them to see immediate results in a browser.
 
-[Basic File boilerplate repository](https://github.com/krystin987/Boilerplate)
+[   Basic File boilerplate repository](https://github.com/krystin987/Boilerplate)
 
 ---
 - [ ] Solid Knowledge of common tag types and how to implement them
