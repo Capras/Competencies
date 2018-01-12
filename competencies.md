@@ -5,13 +5,13 @@
 ##### Personal proof of concept for HTML & CSS Including Bootstrap:
 This is a simple, responsive website from July 2017 that uses HTML, CSS, and Bootstrap.
 
-[Website Hosted on github](https://krystin987.github.io/maggie/)
+[Basic Business Website Hosted on github](https://krystin987.github.io/maggie/)
 
-[repository](https://github.com/krystin987/maggie)
+[Basic Business Website repository](https://github.com/krystin987/maggie)
 
 ##### This basic outline for creating a simple 'first web app' boilerplate was developed in January 2018 for incoming apprentices. It briefly describes the three basic file components (html, css, javascript) and how to write them to see immediate results in a browser.
 
-[Basic File boilerplate](https://github.com/krystin987/Boilerplate)
+[Basic File boilerplate repository](https://github.com/krystin987/Boilerplate)
 
 ---
 - [ ] Solid Knowledge of common tag types and how to implement them
@@ -52,17 +52,17 @@ This is a simple, responsive website from July 2017 that uses HTML, CSS, and Boo
 ​
 
 ### 2. MIDDLEWARE DEVELOPMENT
+---
+##### Personal proof of concept for Middleware Development including JavaScript, AJAX, HTTP, & jQuery:
 
-#### Personal proof of concept for Middleware Development including JavaScript, AJAX, HTTP, & jQuery:
-
-###### The library project from July 2017 uses object oriented programming, prototypical modeling, JQuery, and JSON objects.
+The library project from July 2017 uses object oriented programming, prototypical modeling, JQuery, and JSON objects.
 [Library Project](https://krystin987.github.io/Library-Project/)
 [Library Project repository](https://github.com/krystin987/Library-Project)
 
 ###### The HTML5 "Brickout" Canvas Game from January 2017 uses object oriented programming, prototypical modeling, JQuery, HTML5 canvas, object collision, webpack deployment, and test driven development.
 [HTML5 "Brickout" Canvas Game](https://krystin987.github.io/game-time/)
 [HTML5 "Brickout" Canvas Game repository](https://github.com/krystin987/game-time)
-
+---
 
 
 - [ ] ##### JavaScript
