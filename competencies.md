@@ -189,6 +189,7 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 
 ##### Personal proof of concept for Database Development:
 
+&nbsp;&nbsp;&nbsp;&nbsp;[Ruby on Rails blog](https://github.com/krystin987/rails)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[MVC Movie App](https://github.com/krystin987/mvcmpvieapp) uses C#
 
