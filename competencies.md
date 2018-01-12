@@ -15,6 +15,8 @@ This basic outline for creating a simple 'first web app' boilerplate was develop
 
 [Basic File boilerplate repository](https://github.com/krystin987/Boilerplate)
 
+In the past 90 days over 20 hours were spent in the academy mentoring or code reviewing HTML, CSS, and Javascript.
+
 ---
 
 - [ ] Solid Knowledge of common tag types and how to implement them
@@ -100,11 +102,12 @@ The HTML5 "Brickout" Canvas Game from January 2017 uses object oriented programm
 
 ---
 ##### Personal proof of concept for AJAX, HTTP, & jQuery:
-The Zayo project from Fall 2017 uses object oriented programming, prototypical modeling, JQuery, promise values, and SQL style backend query methods (SOQL in Salesforce).
 
-The Zayo Route Visualization project from Fall 2017 demonstrates proper use of asynchronous promise values using callbacks.
+The Zayo project from Fall 2017 uses object oriented programming, prototypical modeling, JQuery, promise values, and SQL style backend query methods (SOQL in Salesforce) as well as demonstrates proper use of asynchronous promise values using callbacks.
 
 [Zayo private repository](https://github.com/krystin987/maprefactor)
+
+In December about 5 hours were spent teaching ajax, async, and http in the academy including a project assignment using ajax calls.
 
 ---
 
@@ -126,7 +129,7 @@ The Zayo Route Visualization project from Fall 2017 demonstrates proper use of a
 - [ ] Understands difference between HTTP Methods POST, GET, and PUT
 
 
-- [ ] Understands difference between AJAX and HTTP Methods -
+- [ ] Understands difference between AJAX and HTTP Methods 
 
 
 ##### jQuery
