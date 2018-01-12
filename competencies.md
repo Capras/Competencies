@@ -7,11 +7,11 @@
 ##### Personal proof of concept for HTML & CSS Including Bootstrap:
 A simple, responsive website from July 2017 that uses HTML, CSS, and Bootstrap.
 
-- [Basic Business Website - hosted](https://krystin987.github.io/maggie/)|[code repository](https://github.com/krystin987/maggie)  
+&nbsp;&nbsp;&nbsp;[Basic Business Website - hosted](https://krystin987.github.io/maggie/)|[code repository](https://github.com/krystin987/maggie)  
 
 This basic outline for creating a simple 'first web app' boilerplate was developed in January 2018 for incoming apprentices. It briefly describes the three basic file components (html, css, javascript) and how to write them to see immediate results in a browser.
 
-      ​[Basic File boilerplate repository](https://github.com/krystin987/Boilerplate)
+&nbsp;&nbsp;&nbsp;[Basic File boilerplate repository](https://github.com/krystin987/Boilerplate)
 
 In the past 90 days over 20 hours were spent in the academy mentoring or reviewing code with apprentices in HTML, CSS, and Javascript.
 
