@@ -99,8 +99,11 @@ The HTML5 "Brickout" Canvas Game from January 2017 uses object oriented programm
 ##### AJAX
 
 ---
+##### Personal proof of concept for AJAX, HTTP, & jQuery:
+The Zayo project from Fall 2017 uses object oriented programming, prototypical modeling, JQuery, promise values, and SQL style backend query methods (SOQL in Salesforce).
 
 The Zayo Route Visualization project from Fall 2017 demonstrates proper use of asynchronous promise values using callbacks.
+
 [Zayo private repository](https://github.com/krystin987/maprefactor)
 
 ---
@@ -166,7 +169,6 @@ The Zayo Route Visualization project from Fall 2017 demonstrates proper use of a
 
 
 - [ ] Can write repository methods that perform basic CRUD operations
-      - *Demonstrated in MVCMovie project: https://github.com/econno11ee/MvcMovieApp*
 
 ### 4. BACKEND DEVELOPMENT
 
@@ -179,14 +181,12 @@ The Zayo Route Visualization project from Fall 2017 demonstrates proper use of a
 
 
 - [ ] Understanding all common modifiers (static, abstract, etc) & can build and implement classes correctly
-      - *Demonstrated in MVCMovie project:* https://github.com/econno11ee/MvcMovieApp
 
 
 - [ ] Understanding namespaces & how to import dependencies
 
 
 - [ ] Knowledge on how to use model binding
-      - *Demonstrated in MVCMovie project:* https://github.com/econno11ee/MvcMovieApp
 
 
 - [ ] Knowledge of serialization and deserialization with JSON
@@ -319,7 +319,6 @@ The Zayo Route Visualization project from Fall 2017 demonstrates proper use of a
 
 
 - [ ] Interface segregation: Do not create lengthy interfaces, instead split them into smaller interfaces based on the functionality. The interface should not contain any dependencies (parameters), which are not require for the expected functionality
-      - Demonstrated in MVCMovie project: https://github.com/econno11ee/MvcMovieApp
 
 
 - [ ] Dependency Injection: Do not hardcode the dependencies, instead inject them
