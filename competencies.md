@@ -1,7 +1,9 @@
 
 
 ### 1. FRONT END DEVELOPMENT HTML & CSS
+
 ---
+
 ##### Personal proof of concept for HTML & CSS Including Bootstrap:
 This is a simple, responsive website from July 2017 that uses HTML, CSS, and Bootstrap.
 
@@ -14,6 +16,7 @@ This basic outline for creating a simple 'first web app' boilerplate was develop
 [Basic File boilerplate repository](https://github.com/krystin987/Boilerplate)
 
 ---
+
 - [ ] Solid Knowledge of common tag types and how to implement them
 
       Document Structure
@@ -49,9 +52,10 @@ This basic outline for creating a simple 'first web app' boilerplate was develop
 - [ ] Can install either by CDN or local file
 
 
-​
+
 
 ### 2. MIDDLEWARE DEVELOPMENT
+
 ---
 
 ##### Personal proof of concept for Middleware Development including JavaScript, AJAX, HTTP, & jQuery:
