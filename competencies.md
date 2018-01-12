@@ -130,7 +130,7 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 
 
 - [ ] Understands difference between AJAX and HTTP Methods 
-      #####Ajax uses asynchronous javascript XML calls, HTTP is used by REST calls
+      ​	Ajax uses asynchronous javascript XML calls, HTTP is used by REST calls
 
 
 ##### jQuery
