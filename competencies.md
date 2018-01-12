@@ -99,8 +99,12 @@ The HTML5 "Brickout" Canvas Game from January 2017 uses object oriented programm
 
 ##### AJAX
 
-###### The Zayo Route Visualization project from Fall 2017 demonstrates proper use of asynchronous promise values using callbacks.
+---
+
+The Zayo Route Visualization project from Fall 2017 demonstrates proper use of asynchronous promise values using callbacks.
 [Zayo private repository](https://github.com/krystin987/maprefactor)
+
+---
 
 - [ ] Understanding of asynchronous concepts and implications such as callbacks
 
