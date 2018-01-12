@@ -145,11 +145,23 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 
 ### 3. DATABASE DEVELOPMENT
 
+---
+
+##### Personal proof of concept for Database Development:
+
+[Zayo private repository](https://github.com/krystin987/maprefactor) uses relational database methods in a client project.
+[MVC Movie App](https://github.com/krystin987/mvcmpvieapp) uses relational database methods.
+
+Mongo is a document based database. Documents are the actual data records, nested in sub categories.
+
+SQL is a relational database. It defines a schema before records are added to the database typically in rows, columns, data types and names for the columns/rows.
+---
 
 
 - [ ] Understands the difference between a relational database and document based database
 
 ##### MongoDB
+
 
 - Knowledge of basic installation of MongoDB and C Driver, JSON, schema design, querying, insertion of data, indexing & working with C# driver
 - Able to build a MongoDB-based app
@@ -175,6 +187,17 @@ In December about 5 hours were spent teaching ajax, async, and http to apprentic
 - [ ] Can write repository methods that perform basic CRUD operations
 
 ### 4. BACKEND DEVELOPMENT
+
+---
+
+##### Personal proof of concept for Database Development:
+
+
+[MVC Movie App](https://github.com/krystin987/mvcmpvieapp) uses C#
+[Exercism Exercises](http://exercism.io/profiles/krystin987/004f70f5d5eb4887b177560dd1b07d33) includes C# exercises
+
+---
+
 
 ##### C# ####
 
